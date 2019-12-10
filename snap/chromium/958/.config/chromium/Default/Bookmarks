@@ -1,0 +1,62 @@
+{
+   "checksum": "21f29e46b95da368736cdb9cf182cf96",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13211452655203425",
+            "guid": "26b85f33-89bb-4694-b879-d20814acf50d",
+            "id": "5",
+            "name": "GitHub - Pierian-Data/Complete-Python-3-Bootcamp: Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "type": "url",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp"
+         }, {
+            "date_added": "13211971396883818",
+            "guid": "6cb0dafe-a9fb-498a-a90e-33c112e2cc96",
+            "id": "6",
+            "name": "Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/complete-python-bootcamp/learn/lecture/9388532?start=0#announcements"
+         }, {
+            "date_added": "13212588097991900",
+            "guid": "3c80fffa-7e79-426e-8915-d8e1bacbf511",
+            "id": "7",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13220433056676470",
+            "guid": "048fedc8-9664-4b89-8b0a-a680fc555ac5",
+            "id": "8",
+            "name": "KavyaMarri/DevOps",
+            "type": "url",
+            "url": "https://github.com/KavyaMarri/DevOps"
+         } ],
+         "date_added": "13220429756795053",
+         "date_modified": "13220433056676470",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13220429756857789",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13220429756857808",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgPSUqVOZBQAhgPSUqVOZBQAiFAlj/rOpU5kFABABGYubPVU/jG+IMhgKFggCETJ9UrlTmQUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmA9JSpU5kFACGA9JSpU5kFADIYChYIAhH1glS5U5kFABgAIQAAAAAAAAAAIABI1OmV9O4tcOm9yvLuLRIAIAEqGGJHakNQZzFoNVcycmtJMk5Hc0RBSFE9PRLGAQgDEsEBEmZaOkFEcXRBWndaTk1PbDZqcVU0dUJpNU1aQ2d2aVBrb1MxUC9lTmtaRGhSWjRzNGZkcmcwd2g5b2x1eFJjOStyNlhibWlPMi8zaVgrQmJrQzZ0NkNiWFVVTXBzbTg2b04zdzBRPT0YACAAKAAw7fzmk6+q5gI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WiYiJIAAAAAAAAAA/cLkO5GfKp1jPJFgnG/MextpcFwq/7ZyW1VDfxLGAQgCEsEBEmZaOkFEcXRBWnlJeHR3b3JDZ3R2dEVXYXVEZ0dPaTg0TnVJM3pudEpNRzNwZmkzT0ZyNEpQSm1hcjJJZlAxQWgzWW1LWDZMWmtOUHFFNS9TclRtQTFDNGc0dHA0TzBaYlNZMjhBPT0YACAAKAAw7fzmk6+q5gI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WiYiJIAAAAAAAAAAq/CVWt75igj2CS71+zyR3EBH1IyDoQlbOvg7fxKuAQgBEqkBEk5aOkFEcXRBWnlKOWxlWTF1Y0R5N0FIdHBJTkNNdHVBbXdIYjVvV3FicHc5WFZPcVFEY0lCbjV1bnBmQkwrVEFTenMzdyswS05tQjN6MHIYACAAKAAw7fzmk6+q5gI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WiYiJIAAAAAAAAAAgj0b817a8QsL8y9uJZL6jaDtj9pOnZ3ktheofxKJAggFEoQCEqYBWjpBRHF0QVp6bDZFZEFnUHNVY29WY2xUVHkwSnVFRG00NWZhUGhiSTRjVjZ4N25KUlBqU1RROHhqZzNZR1U0V3NTYmNGTVNqSVdWWVVJdUtvSkVrWnVKcUs2QWZOYlRtOWJjTksyNnBoQ25hU1pNOEQ2cmUvMnlQUjhVdTMyVDE2TW9XRndnYWp5MmJPay9rcVZ3Z0lQUFY0Q2kxcE1WdEJnTGc9PRgAIAIoAjDb46+Zr6rmAjiGveu5zS1ApNDK8u4tShxjRmlHamJUbmlLTThmM2ZTYjJubGRjZHhxQlk9Wh4iHFhmc2RXNFlUR3d0MUlHYjhodk1lbllSNGJsND0SigIIBxKFAhKmAVo6QURxdEFaemw2RWRBZ1BzVWNvVmNsVFR5MEp1RURtNDVmYVBoYkk0Y1Y2eDduSlJQamVocFpUclJ2ang2K1QweGhvMFNRakQ0NUhVTFk0SzA5bGl4bEVVUVl3V2lTRDhvbEMrbmpxR051MmZHbWt0VVhUY2YrVzk2RnJ3dllSVWFhdTJTNTU5VDd6ZUYzMndNem9wZ044RnVPRVlrVmRoSXVnPT0YACACKAIw4vzPzbqq5gI4jrSh19EtQPrdhfTuLUoccjJRQ05XREQzamozTC81QVJ6R0ZYeFI1QUNzPVofIh3WbktSamgwV1BSZWZrYnZIQWxVdVkwcDhIaUJVPRKKAggGEoUCEqYBWjpBRHF0QVp6bDZFZEFnUHNVY29WY2xUVHkwSnVFRG00NWZhUGhiSTRjVjZ4N25KUlBqZlhpL1V3WE5Fb2xFVDBWMW80a3dtQy95cDd6OEd1SXRNSHUrQTRGc0Z3eDRKcm41N25jQkN0cXRheG5qMDVENzQzaUViUWxhVVQvMHJMY2FtcmlVYTFKRDRPU3gzN2ljN0RtZXREaWNiT3YzakR2c0E9PRgAIAIoAjDb46+Zr6rmAjiU+pixzy1ApdDK8u4tShxlZGV2a2QzTVZ3ZTUxTS9QbkdoSWhFblBwUEk9Wh8iHaxQMXRoMzZoaWVpSVFlSEtHVXVlR3QvY0w3VW89EooCCAgShQISpgFaOkFEcXRBWnpsNkVkQWdQc1Vjb1ZjbFRUeTBKdUV3OGM3VVdqbnM5Nkp2WFZkN3Y5SXhGeGhmcTdLNVlsSTNCUmpkd25Gc29vVlNqYmxqd0VpT0YwcU5Kd09NeGpoeFgvOUNRekREb0o1bGwreXJyNTh4bzFadUtMVTNraXRvQkdCTEdQczkyRE82UTl6c2Q5UzYyemZLK2QyQzNwb1FHWGdXUT09GAAgAigCMJGRtb66quYCOKXXg/TuLUCr14P07i1KHG5kemZpQTRZTnplcEZ4TWZKUURjTWRmTm5rOD1aHyId62VGcjk4cmZNYmUzRUZ0T1NIYnRxSjJTTHljOD0=",
+   "version": 1
+}

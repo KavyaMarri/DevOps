@@ -1,0 +1,5 @@
+2019/12/10-12:11:16.082 2edf Recovering log #3
+2019/12/10-12:11:16.082 2edf Level-0 table #5: started
+2019/12/10-12:11:16.135 2edf Level-0 table #5: 986 bytes OK
+2019/12/10-12:11:16.249 2edf Delete type=3 #2
+2019/12/10-12:11:16.249 2edf Delete type=0 #3

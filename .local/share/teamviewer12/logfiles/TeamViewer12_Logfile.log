@@ -1,0 +1,183 @@
+2019/12/10 11:35:55.498  7072 140354413739072 gX0   Logger started.
+2019/12/10 11:35:55.523  7072 140354413739072 gX0   Found 0 Minidump files ...
+2019/12/10 11:35:55.524  7072 140354413739072 gX0   Found 0 core dump files ...
+2019/12/10 11:35:55.535  7072 140354413739072 gX0   systemd: logind service available
+2019/12/10 11:35:55.538  7072 140354413739072 gX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='2', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/12/10 11:35:55.539  7072 140354413739072 gX0   SystemdSessionInfo: New session SystemdSessionInfo [id=2 user=kmarri state=user active=1 reliable=1 infoId=0] [path=/org/freedesktop/login1/session/_32 TTY=tty2 seat=seat0 display= vtnr=2 owner=[SysUser_Lin: kmarri [uid=1000, gid=1000 home=/home/kmarri gecos=kavya marri,,, shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1575955877286131 service=gdm-password defaultCG= leader=1366 audit=2 remote=0 rHost= rUser= killProc=0]
+2019/12/10 11:35:55.540  7072 140354413739072 gX0   SystemdSessionInfo: New session SystemdSessionInfo [id=c1 user=gdm state=greeter active=0 reliable=1 infoId=1] [path=/org/freedesktop/login1/session/c1 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser_Lin: gdm [uid=121, gid=125 home=/var/lib/gdm3 gecos=Gnome Display Manager shell=/bin/false]] idle=1(1575956177369511) active=0 type=wayland class=greeter state=online timestamp=1575955851327534 service=gdm-launch-environment defaultCG= leader=980 audit=0 remote=0 rHost= rUser= killProc=0]
+2019/12/10 11:35:55.540  7072 140354413739072 gX0   SysSessionInfoManager: Session Information provided by systemd [priority: 0]
+2019/12/10 11:35:55.541  7072 140354413739072 gX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/12/10 11:35:55.541  7072 140354413739072 gX0   XSocket observer: watching /tmp/.X11-unix
+2019/12/10 11:35:55.541  7072 140354413739072 gX0   XSocket observer: adding XSession: 0
+2019/12/10 11:35:55.570  7072 140354413739072 gX0   XSocket observer: adding XSession: 1024
+2019/12/10 11:35:55.601  7072 140354413739072 gX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/12/10 11:35:55.601  7072 140354413739072 gX0   SysSessionInfoManager: assigned session 0 to info provider 'systemd'
+2019/12/10 11:35:55.633  7072 140354413739072 gX0!  XSession: Reading TTY from X-Server process failed.
+2019/12/10 11:35:55.669  7072 140354413739072 gX0!  XSession[1024]: Unable to get XAuth
+2019/12/10 11:35:55.669  7072 140354413739072 gX0   XClient[:1024]: Unable to open XAuthority file "" (err=2)
+2019/12/10 11:35:55.669  7072 140354413739072 gX0!  VTSessionInfoProvider: Failed setting TTY for session 1024 on display ':1024'
+2019/12/10 11:35:55.669  7072 140354413739072 gX0   SysSessionInfoManager: assigned session 1024 to info provider 'None'
+2019/12/10 11:35:55.671  7072 140354413739072 gX0   Initialised XFixes extension (base=87 error=140)
+2019/12/10 11:35:55.671  7072 140354413739072 gX0   TVGuiSlave.64: Running
+2019/12/10 11:35:56.112  7073 4119459712 QX0   Logger started.
+2019/12/10 11:35:56.133  7073 4119459712 QX0   Found 0 Minidump files ...
+2019/12/10 11:35:56.133  7073 4119459712 QX0   Found 0 core dump files ...
+2019/12/10 11:35:56.150  7073 4119459712 QX0   systemd: logind service available
+2019/12/10 11:35:56.154  7073 4119459712 QX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='2', canGraphical=1, canTTY=1, canMultiSession=1]
+2019/12/10 11:35:56.155  7073 4119459712 QX0   SystemdSessionInfo: New session SystemdSessionInfo [id=2 user=kmarri state=user active=1 reliable=1 infoId=0] [path=/org/freedesktop/login1/session/_32 TTY=tty2 seat=seat0 display= vtnr=2 owner=[SysUser_Lin: kmarri [uid=1000, gid=1000 home=/home/kmarri gecos=kavya marri,,, shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1575955877286131 service=gdm-password defaultCG= leader=1366 audit=2 remote=0 rHost= rUser= killProc=0]
+2019/12/10 11:35:56.157  7073 4119459712 QX0   SystemdSessionInfo: New session SystemdSessionInfo [id=c1 user=gdm state=greeter active=0 reliable=1 infoId=1] [path=/org/freedesktop/login1/session/c1 TTY=tty1 seat=seat0 display= vtnr=1 owner=[SysUser_Lin: gdm [uid=121, gid=125 home=/var/lib/gdm3 gecos=Gnome Display Manager shell=/bin/false]] idle=1(1575956177369511) active=0 type=wayland class=greeter state=online timestamp=1575955851327534 service=gdm-launch-environment defaultCG= leader=980 audit=0 remote=0 rHost= rUser= killProc=0]
+2019/12/10 11:35:56.157  7073 4119459712 QX0   SysSessionInfoManager: Session Information provided by systemd [priority: 0]
+2019/12/10 11:35:56.157  7073 4119459712 QX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2019/12/10 11:35:56.158  7073 4119459712 QX0   XSocket observer: watching /tmp/.X11-unix
+2019/12/10 11:35:56.158  7073 4119459712 QX0   XSocket observer: adding XSession: 0
+2019/12/10 11:35:56.208  7073 4119459712 QX0   XSocket observer: adding XSession: 1024
+2019/12/10 11:35:56.246  7073 4119459712 QX0!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2019/12/10 11:35:56.246  7073 4119459712 QX0   SysSessionInfoManager: assigned session 0 to info provider 'systemd'
+2019/12/10 11:35:56.281  7073 4119459712 QX0!  XSession: Reading TTY from X-Server process failed.
+2019/12/10 11:35:56.322  7073 4119459712 QX0!  XSession[1024]: Unable to get XAuth
+2019/12/10 11:35:56.322  7073 4119459712 QX0   XClient[:1024]: Unable to open XAuthority file "" (err=2)
+2019/12/10 11:35:56.322  7073 4119459712 QX0!  VTSessionInfoProvider: Failed setting TTY for session 1024 on display ':1024'
+2019/12/10 11:35:56.322  7073 4119459712 QX0   SysSessionInfoManager: assigned session 1024 to info provider 'None'
+2019/12/10 11:35:56.323  7073 4119459712 QX0   TVGuiDelegate: Running
+2019/12/10 11:35:56.699  7072 140354202330880 gX0   Audio: PulseAudio enabled
+2019/12/10 11:35:56.702  7072 140354187474688 gX0   PulseAudio: Connected to server 'unix:/run/user/1000/pulse/native' (protocol version 32, library version 11.1.0
+2019/12/10 11:35:55.155    31    43 GX0   Logger started.
+2019/12/10 11:35:55.172    31    43 GX0   StringCompare locale: English_United States.1252
+2019/12/10 11:35:55.241    31    43 GX0!! SetProcessStartupOptions(): SetProcessDEPPolicy() failed! LE=120, Errorcode=12180
+2019/12/10 11:35:55.369    31    43 GX0   TVW X ErrorHandler org 7e686b17, def 7e510a40 cur 7dabd3eb
+2019/12/10 11:35:55.375    31    43 GX0   Wine: Wine DLL initialized
+2019/12/10 11:35:55.375    31    43 GX0   Wine: wine-1.6
+
+2019/12/10 11:35:55.376    31    43 GX0   TVW SID0: SpawnSlave: pid 0
+2019/12/10 11:35:55.376    31    43 GX0   TVW SID0: SpawnSlave: loading TVGuiSlave.64
+2019/12/10 11:35:55.477    31    43 GX0!! TVW ObserveFork(ID = 0): read 0, Errorcode=12180
+2019/12/10 11:35:55.524    31    43 GX0   TVW ObserveFork: OK
+2019/12/10 11:35:55.524    31    43 GX0   Wine: Spawned slave process with type 0
+2019/12/10 11:35:55.525    31    43 GX0   TVW SID1: SpawnSlave: pid 0
+2019/12/10 11:35:55.526    31    43 GX0   TVW SID1: SpawnSlave: loading TVGuiDelegate
+2019/12/10 11:35:55.626    31    43 GX0!! TVW ObserveFork(ID = 1): read 0, Errorcode=12180
+2019/12/10 11:35:55.726    31    43 GX0!! TVW ObserveFork(ID = 1): read 0, Errorcode=12180
+2019/12/10 11:35:55.826    31    43 GX0!! TVW ObserveFork(ID = 1): read 0, Errorcode=12180
+2019/12/10 11:35:55.927    31    43 GX0!! TVW ObserveFork(ID = 1): read 0, Errorcode=12180
+2019/12/10 11:35:56.027    31    43 GX0!! TVW ObserveFork(ID = 1): read 0, Errorcode=12180
+2019/12/10 11:35:56.127    31    43 GX0!! TVW ObserveFork(ID = 1): read 0, Errorcode=12180
+2019/12/10 11:35:56.133    31    43 GX0   TVW ObserveFork: OK
+2019/12/10 11:35:56.133    31    43 GX0   Wine: Spawned slave process with type 1
+2019/12/10 11:35:56.135    31    43 GX0   Starting GUI master for slave type 0
+2019/12/10 11:35:56.136    31    43 GX0   Slave connected to GUI master
+2019/12/10 11:35:56.136    31    43 GX0   Starting GUI master for slave type 1
+2019/12/10 11:35:56.324    31    43 GX0   Slave connected to GUI master
+2019/12/10 11:35:56.330    31    43 GX0   Monitors: X11 Windowing System, \\.\DISPLAY1, 1366x768 (0,0), flags=21, dpi=96
+2019/12/10 11:35:56.559    31    43 GX0   CMain::LoadResourceDLLs(): No custom resource dll found
+2019/12/10 11:35:56.559    31    43 GX0   InterProcessBase::SecureNetwork created
+2019/12/10 11:35:56.582    31    43 GX0   AutoLogin::Login: enabled: 1
+
+
+
+Start:              2019/12/10 11:35:56.583 (UTC+5:30)
+Version:            12.0.137452 
+ID:                 0
+Loglevel:           LogAll (0)
+License:            0
+Server:             master13.teamviewer.com
+IC:                 0
+CPU:                x86 Family 6 Model 58 Stepping 9, GenuineIntel
+CPU extensions:     g9
+OS:                 Lx Ubuntu 18.04.3 LT (32-bit)
+IP:                 192.168.0.110
+Proxy-Settings:     Type=0 IP= User=
+AppPath:            C:\TeamViewer\TeamViewer.exe
+UserAccount:        kmarri
+
+2019/12/10 11:35:56.587    31    43 GX0   Win32_GUI::FontReallyExists: 'Segoe UI' found 0 matches.
+2019/12/10 11:35:56.587    31    43 GX0   Win32_GUI::FontReallyExists: 'Liberation Sans' found 4 matches.
+2019/12/10 11:35:56.593    31    43 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2019/12/10 11:35:56.593    31    43 GX0   Opening local TCP connection to 127.0.0.1:5939
+2019/12/10 11:35:56.594    31    43 GX0   Local TCP connection established
+2019/12/10 11:35:56.594    31    43 GX0   Process ID:  L 6844 /  W 31
+2019/12/10 11:35:56.696    31    43 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2019/12/10 11:35:56.697    31    43 GX0   Received Control_InitIPC_Response processtype=1
+2019/12/10 11:35:56.697    31    43 GX0   Received Control_InitIPC_Response runningProcesses=3
+2019/12/10 11:35:56.697    31    43 GX0   Control_InitIPC_Response: all processes 3 completely initialized
+2019/12/10 11:35:56.712    31    43 GX0   ProxySearch: no PAC script detected via WPAD
+2019/12/10 11:35:56.712    31    43 GX0   ProxySearch: no PAC script detected via WPAD
+2019/12/10 11:35:56.720  7072 140354202330880 gX0   PulseAudio: Connection established
+2019/12/10 11:35:56.720  7072 140354187474688 gX0   PulseAudio: Exit main loop (0), err=-2
+2019/12/10 11:35:56.721    31    38 GX0   Slave signalized initialization
+2019/12/10 11:35:56.776  7072 140354413739072 gX0   XSM: Initialised X Session Management (gnome-session, 3.28.1) [13]
+2019/12/10 11:35:56.794  7073 4034919232 QX0   SessionBusWatcher: suitable bus found with address "unix:path=/run/user/1000/bus"
+2019/12/10 11:35:57.094    31    40 GX0   Slave signalized initialization
+2019/12/10 11:35:57.094    31    32 GX0   tvshared::WindowsSessionStateManager::WindowsSessionStateManager(02425D90) state 0
+2019/12/10 11:35:57.094    31    32 GX0   VoIP: VoIPCentral: Set capturing-device = "", rendering-device = ""
+2019/12/10 11:35:57.096    31    32 GX0   MachineID m=0 - 0
+2019/12/10 11:35:57.096  7072 140353759868672 gX0   PulseAudio: Connected to server 'unix:/run/user/1000/pulse/native' (protocol version 32, library version 11.1.0
+2019/12/10 11:35:57.098    31    32 GX0   TVUpdate::Init() Version-URL: download.teamviewer.com/download/update/ Update-URL: download.teamviewer.com/download/update/
+2019/12/10 11:35:57.100    31    32 GX0   TVUpdate::Init() Preview Channel Number : 1
+2019/12/10 11:35:57.101    31    32 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/12/10 11:35:57.163    31    32 GX0!! MachineHooks: Library not found, Errorcode=126
+2019/12/10 11:35:57.597  7072 140354202330880 gX0   PulseAudio: Connection established
+2019/12/10 11:35:57.673    31    32 GX0   Wine: HwndToWindow 00030050 -> 3e0000a
+2019/12/10 11:35:57.674    31    32 GX0   ManagerHolderStateMachine: Switching from None to NotReady
+2019/12/10 11:35:57.674    31    36 GX0   ChatManager::ChatManager: created
+2019/12/10 11:35:57.674    31    36 GX0   ChatManager::Factory: ChatManager created
+2019/12/10 11:35:57.674    31    36 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2019/12/10 11:35:57.674    31    32 GX0!! DragDropRegistration: could not register window, HR=80040155
+2019/12/10 11:35:57.675    31    36 GX0   IncomingChatCommandRegistration::Start: registering for ready state properties
+2019/12/10 11:35:57.678    31    32 GX0   AccountLoginGUI::CreateLoginKey(): [OnlineState] System is set to Visible.
+2019/12/10 11:35:57.700    31    32 GX0   Wine: HwndToWindow 000100CC -> 3e0000d
+2019/12/10 11:35:57.700    31    32 GX0   Wine: HwndToWindow 00030050 -> 3e0000a
+2019/12/10 11:35:57.813    31    36 GX0   IncomingChatCommandRegistration::IsTeamViewerOnlineObserver: TeamViewer-Onlinestate changed to offline
+2019/12/10 11:35:57.813    31    36 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1484122413 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/12/10 11:35:57.890    31    32 GX0   CMainWindow::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1484122413 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2019/12/10 11:35:57.892    31    34 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "1484122413", TSUserID "0", ServerID "0"
+2019/12/10 11:35:57.893    31    32 GX0   CMainWindowFull::ShowIntroScreenOnStartup()::Show Intro Screen
+2019/12/10 11:35:58.136    31    32 GX0!! ServerControl: RegisterPowerSettingNotification failed with error 0
+2019/12/10 11:35:58.421    31    39 GX0   Mixer: Device added: alsa_output.pci-0000_00_1b.0.analog-stereo, Built-in Audio Analog Stereo {47a6ec9c-0926-5233-b1a1-d125eb058546}
+2019/12/10 11:35:58.421    31    39 GX0   Mixer: Device added: alsa_input.pci-0000_00_1b.0.analog-stereo, Built-in Audio Analog Stereo {4f128769-8fee-5b51-8080-a60fdb1820f7}
+2019/12/10 11:35:58.422    31    45 GX0   MM: Number of Audio Devices changed
+2019/12/10 11:35:58.425    31    45 GX0   VoIP: VoIPCentral: Set capturing-device = "", rendering-device = ""
+2019/12/10 11:35:58.431    31    32 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/12/10 11:35:58.432    31    32 GX0!! TVW Wine: SetWindowManagerClassHint: No such window
+2019/12/10 11:36:00.462    31    33 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: e90f0ef8-e059-44a6-b721-e0f6dbc3a34f)
+2019/12/10 11:36:00.468    31    33 GX0   IncomingChatCommandRegistration::IsTeamViewerOnlineObserver: TeamViewer-Onlinestate changed to online
+2019/12/10 11:36:00.471    31    33 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: d3233d9d-34b9-4272-90b7-db7973fd6598)
+2019/12/10 11:36:00.471    31    33 GX0   IncomingChatCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2019/12/10 11:36:00.471    31    36 GX0   Account::UpdateState: KA = 1, active = 1
+2019/12/10 11:36:00.471    31    33 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1484122413 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/12/10 11:36:00.474    31    32 GX0   Account::SetLoginState: new state: 2
+2019/12/10 11:36:00.475    31    32 GX0   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2019/12/10 11:36:00.478    31    32 GX0   CMainWindow::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=1484122413 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2019/12/10 11:36:00.842    31    33 GX0   IpcRouterClock: received router time: 20191210T060600.563322
+2019/12/10 11:36:07.057    31    32 GX0   CMainWindow::InitCloseTV(): Prepare to close TeamViewer
+2019/12/10 11:36:07.057    31    32 GX0!! ServerControl: UnregisterPowerSettingNotification failed with error 0
+2019/12/10 11:36:07.092    31    32 GX0   Chat::Stop: Stopping chat
+2019/12/10 11:36:07.092    31    32 GX0   ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+2019/12/10 11:36:07.092    31    32 GX0   IncomingChatCommandRegistration::Stop: disconnecting ready state properties
+2019/12/10 11:36:07.092    31    32 GX0   IncomingChatCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2019/12/10 11:36:07.092    31    32 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: d3233d9d-34b9-4272-90b7-db7973fd6598)
+2019/12/10 11:36:07.093    31    35 GX0   ChatManager::Close
+2019/12/10 11:36:07.093    31    35 GX0   ChatManager::UnregisterIncomingCommandRegistration: destroying incomingCommandRegistration
+2019/12/10 11:36:07.093    31    35 GX0   ChatManager::ClearAccountChat: clearPersistently = 0
+2019/12/10 11:36:07.093    31    35 GX0   ChatManager::ClearNonAccountChat
+2019/12/10 11:36:07.093    31    35 GX0   ChatManager::~ChatManager: destroyed
+2019/12/10 11:36:07.093    31    32 GX0!! MainWindow.OnDestroy: WTSUnRegisterSessionNotification failed with error 0
+2019/12/10 11:36:07.094    31    35 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: destroyed
+2019/12/10 11:36:07.126    31    32 GX0   CMainWindow::OnDestroy(): Closing TeamViewer
+2019/12/10 11:36:07.133    31    32 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: e90f0ef8-e059-44a6-b721-e0f6dbc3a34f)
+2019/12/10 11:36:07.133  7072 140353759868672 gX0   PulseAudio: Exit main loop (0), err=-2
+2019/12/10 11:36:07.140  7072 140354187474688 gX0   XClipboard: Shutting down event loop
+2019/12/10 11:36:07.197  7072 140354413739072 gX0   TVGuiSlave.64: Terminated
+2019/12/10 11:36:07.234    31    32 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2019/12/10 11:36:07.234    31    32 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2019/12/10 11:36:07.234    31    32 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2019/12/10 11:36:07.234    31    32 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2019/12/10 11:36:07.234    31    32 GX0!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 1 failed with error 2
+2019/12/10 11:36:07.236    31    35 GX0   CTcpProcessConnector::HandleRead(): Socket gracefully closed (PID=6040)
+2019/12/10 11:36:07.237    31    35 GX0   CTcpProcessConnector::CloseConnection(): PID=6040
+2019/12/10 11:36:07.237    31    35 GX0!  InterProcessBase::EventFunctionInternal(): IPC-Connection Closed
+2019/12/10 11:36:07.237    31    35 GX0   CTcpProcessConnector::CloseConnection(): PID=6040
+2019/12/10 11:36:07.246  7073 4119459712 QX0   TVGuiDelegate: Terminated
+2019/12/10 11:36:07.293    31    35 GX0   CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 10058: Unknown error
+2019/12/10 11:36:07.293    31    35 GX0!! CTcpProcessConnector::CloseConnection(): Shutdown socket returned error 10009: Unknown error, Errorcode=317
+2019/12/10 11:36:07.293    31    32 GX0   interprocessbase::SecureNetwork destroyed
+2019/12/10 11:36:07.295    31    32 GX0   Wine: Wine DLL freed

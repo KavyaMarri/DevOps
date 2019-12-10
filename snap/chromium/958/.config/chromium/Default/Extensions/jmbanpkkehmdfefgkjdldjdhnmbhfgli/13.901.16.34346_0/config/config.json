@@ -1,0 +1,39 @@
+
+{
+"buildVars": {
+"extensionId": "_dqMembers_@www.downspeedtest.com",
+"configDefId": "224179243",
+"toolbarDisplayName": "DownSpeedTest",
+"internalProductName": "DownSpeedTest",
+"filenamePrefix": "dq",
+"version": "13.901.16.34346",
+"buildDate": "2019-10-08T15:58:41.941Z",
+"localStorageUrl": "https://downspeedtest.dl.myway.com/blank.jhtml",
+"localStorageKeys": [],
+"downloadDomain": ".downspeedtest.com",
+"livePing": {
+"url": "https://live.tb.ask.com/tr.gif",
+"interval": 21600000
+},
+"toolbarDataTimeout": 3000,
+"pixelUrl": "https://downspeedtest.dl.tb.ask.com/install_pixels.jhtml?partner=${partnerID}",
+"unifiedLoggingUrl": "https://anx.tb.ask.com/anx.gif",
+"newTabURL": "https://hp.myway.com/downspeedtest/ttab02chr/index.html?p2=${partnerID}&n=${installDateHex}&ptb=${toolbarID}&si=${partnerSubID}&cwsid=${cwsid}",
+"track": "S34704",
+"coId": "BXM",
+"uninstallSurveyUrl": "https://downspeedtest.dl.myway.com/uninstall.jhtml?c=<!--toolbarID-->&ptb=<!--partnerID-->",
+"defaultPartnerId": "^BXM^chr999^S34704^",
+"searchExtensionEnabled": true,
+"searchExtensionUrl": "https://ext.ask.com/index.jhtml?productName={{productName}}&installDate={{installDate}}&partnerId={{partnerID}}&si={{partnerSubID}}&tbGuid={{toolbarGUID}}&coId={{coID}}",
+"offerServiceConfigUrl": "https://ak.imgfarm.com/images/nocache/native/extension-config.json",
+"babConfigUrl": "",
+"babType": "newTab"
+},
+"csw": {
+"nativemessagingHostName": "com.mindspark.downspeedtest_dq"
+},
+"widgets": [
+    ],
+"executablePackages": [
+    ]
+}

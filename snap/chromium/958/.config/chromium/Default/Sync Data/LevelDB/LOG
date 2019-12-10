@@ -1,0 +1,6 @@
+2019/12/10-12:05:52.691 2be6 Reusing MANIFEST /home/kmarri/snap/chromium/958/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/12/10-12:05:52.691 2be6 Recovering log #4
+2019/12/10-12:05:52.693 2be6 Reusing old log /home/kmarri/snap/chromium/958/.config/chromium/Default/Sync Data/LevelDB/000004.log 
+2019/12/10-13:05:30.490 3d08 Level-0 table #8: started
+2019/12/10-13:05:30.648 3d08 Level-0 table #8: 118112 bytes OK
+2019/12/10-13:05:30.710 3d08 Delete type=0 #4
